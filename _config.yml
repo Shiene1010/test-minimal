@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : "Version 2.0" # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "A flexible Jekyll theme for my blog with Obsidian."
-url                      : "https://shiene1010.git.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://shiene1010.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "Shiene1010/my-second-blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
