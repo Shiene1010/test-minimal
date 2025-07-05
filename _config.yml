@@ -282,13 +282,15 @@ compress_html:
   ignore:
     envs: development
 
+include:
+  - _pages
 
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "_pages"
+      type: pages
     values:
       show_date: true # "false"
       date_format: "%Y-%m-%d" # "%B %-d, %Y"
