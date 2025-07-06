@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-permalink: /about/
+permalink: /test-minimal/about/
 ---
 
 안녕하세요, Shiene1010입니다.  
@@ -9,4 +9,4 @@ permalink: /about/
 
 - 관심 분야: Jekyll, GitHub Pages, 웹 개발
 - 깃허브: [Shiene1010](https://github.com/Shiene1010)
-- [메인으로 돌아가기]({{ site.baseurl }}/)
+
