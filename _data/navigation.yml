@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: /test-minimal/
+  # - title: "Home"
+  #  url: /test-minimal/
   - title: "About"
     url: /test-minimal/about/
   - title: "Posts"
