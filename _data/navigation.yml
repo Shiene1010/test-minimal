@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: /test-minimal/
   - title: "About"
-    url: /about/
+    url: /test-minimal/about/
   - title: "Posts"
-    url: /posts/
+    url: /test-minimal/posts/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
