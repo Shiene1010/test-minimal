@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: write Jekyll posts!
 date: 2025-06-11 14:32:52 +0900
 categories: jekyll update
