@@ -6,7 +6,7 @@ main:
     url: /test-minimal/about/
   - title: "Posts"
     url: /test-minimal/posts/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Categories"
+    url: /test-minimal/categories/
+  - title: "Tags"
+    url: /test-minimal/tags/
